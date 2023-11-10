@@ -1,0 +1,19 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@font-face {
+    font-family: 'icomoon';
+    src: url('icomoon.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icon {
+    font-family: 'icomoon';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.66em;
+    vertical-align: middle;
+    margin-right: .25em;
+}

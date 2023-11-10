@@ -1,4 +1,7 @@
-html {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+.card {
+    max-width: 500px;
+}
+
+.img-responsive {
+    width: 100%;
 }
